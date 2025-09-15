@@ -20,7 +20,7 @@ export interface Bank {
     },
     {
       id: 2,
-      name: "Meezan Bank Limited",
+      name: "Meezan Bank Ltd",
       accountTitle: "Amir Arshad",
       accountNumber: "0112352890",
       iban: "PK90-MEZN-0099-6401-1235-2890",
@@ -29,7 +29,7 @@ export interface Bank {
     },
     {
       id: 3,
-      name: "Meezan Bank Limited (Online)",
+      name: "Meezan Bank Ltd (Online)",
       accountTitle: "Amir Arshad / Sheraz Arshad",
       accountNumber: "0112080455",
       iban: "PK34-MEZN-0099-6401-1208-0455",
@@ -38,7 +38,7 @@ export interface Bank {
     },
     {
       id: 4,
-      name: "Bank Alfalah (Clifton Branch)",
+      name: "Bank Alfalah (Clifton Br)",
       accountTitle: "Amir Arshad / Wajiha Amir",
       accountNumber: "0031-1008045991",
       iban: "PK14-ALFH-0031-0010-0804-5991",
