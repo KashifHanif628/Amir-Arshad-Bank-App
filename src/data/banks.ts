@@ -29,7 +29,7 @@ export interface Bank {
     },
     {
       id: 3,
-      name: "Meezan Bank Limited (Online A/c)",
+      name: "Meezan Bank Limited (Online)",
       accountTitle: "Amir Arshad / Sheraz Arshad",
       accountNumber: "0112080455",
       iban: "PK34-MEZN-0099-6401-1208-0455",
